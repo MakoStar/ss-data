@@ -4,7 +4,10 @@
     "Exp": 50,
     "WorldClass": 1,
     "MaxStar": 3,
-    "TokenRate": 100
+    "TokenRate": 100,
+    "DifficultyList": [
+      1
+    ]
   },
   "2": {
     "Level": 2,
@@ -12,7 +15,10 @@
     "WorldClass": 1,
     "MaxStar": 3,
     "TokenRate": 110,
-    "DisplayMaxStar": 10
+    "DifficultyList": [
+      1
+    ],
+    "DisplayTokenRate": 10
   },
   "3": {
     "Level": 3,
@@ -20,7 +26,10 @@
     "WorldClass": 1,
     "MaxStar": 3,
     "TokenRate": 110,
-    "DisplayTokenRate": 5
+    "DifficultyList": [
+      1
+    ],
+    "DisplayLuckyRate": 5
   },
   "4": {
     "Level": 4,
@@ -28,7 +37,10 @@
     "WorldClass": 1,
     "MaxStar": 3,
     "TokenRate": 120,
-    "DisplayMaxStar": 10
+    "DifficultyList": [
+      1
+    ],
+    "DisplayTokenRate": 10
   },
   "5": {
     "Level": 5,
@@ -36,7 +48,10 @@
     "WorldClass": 12,
     "MaxStar": 3,
     "TokenRate": 120,
-    "DisplayAddRate": 3
+    "DifficultyList": [
+      1
+    ],
+    "DisplayFreeRate": 3
   },
   "6": {
     "Level": 6,
@@ -45,9 +60,10 @@
     "MaxStar": 4,
     "TokenRate": 130,
     "DifficultyList": [
-      4
+      1
     ],
-    "DisplayMaxStar": 10
+    "DisplayMaxStar": 4,
+    "DisplayTokenRate": 10
   },
   "7": {
     "Level": 7,
@@ -55,7 +71,10 @@
     "WorldClass": 14,
     "MaxStar": 4,
     "TokenRate": 130,
-    "DisplayLuckyRate": 10
+    "DifficultyList": [
+      1
+    ],
+    "DisplayAddRate": 10
   },
   "8": {
     "Level": 8,
@@ -64,8 +83,9 @@
     "MaxStar": 5,
     "TokenRate": 130,
     "DifficultyList": [
-      5
-    ]
+      1
+    ],
+    "DisplayMaxStar": 5
   },
   "9": {
     "Level": 9,
@@ -73,7 +93,10 @@
     "WorldClass": 14,
     "MaxStar": 5,
     "TokenRate": 130,
-    "DisplayTokenRate": 5
+    "DifficultyList": [
+      1
+    ],
+    "DisplayLuckyRate": 5
   },
   "10": {
     "Level": 10,
@@ -81,7 +104,10 @@
     "WorldClass": 14,
     "MaxStar": 5,
     "TokenRate": 150,
-    "DisplayMaxStar": 20
+    "DifficultyList": [
+      1
+    ],
+    "DisplayTokenRate": 20
   },
   "11": {
     "Level": 11,
@@ -89,7 +115,10 @@
     "WorldClass": 18,
     "MaxStar": 5,
     "TokenRate": 150,
-    "DisplayAddRate": 3
+    "DifficultyList": [
+      1
+    ],
+    "DisplayFreeRate": 3
   },
   "12": {
     "Level": 12,
@@ -98,8 +127,9 @@
     "MaxStar": 6,
     "TokenRate": 150,
     "DifficultyList": [
-      6
-    ]
+      1
+    ],
+    "DisplayMaxStar": 6
   },
   "13": {
     "Level": 13,
@@ -107,7 +137,10 @@
     "WorldClass": 18,
     "MaxStar": 6,
     "TokenRate": 150,
-    "DisplayLuckyRate": 10
+    "DifficultyList": [
+      1
+    ],
+    "DisplayAddRate": 10
   },
   "14": {
     "Level": 14,
@@ -115,7 +148,10 @@
     "WorldClass": 18,
     "MaxStar": 6,
     "TokenRate": 180,
-    "DisplayMaxStar": 30
+    "DifficultyList": [
+      1
+    ],
+    "DisplayTokenRate": 30
   },
   "15": {
     "Level": 15,
@@ -123,7 +159,10 @@
     "WorldClass": 22,
     "MaxStar": 6,
     "TokenRate": 180,
-    "DisplayTokenRate": 5
+    "DifficultyList": [
+      1
+    ],
+    "DisplayLuckyRate": 5
   },
   "16": {
     "Level": 16,
@@ -132,8 +171,9 @@
     "MaxStar": 7,
     "TokenRate": 180,
     "DifficultyList": [
-      7
-    ]
+      1
+    ],
+    "DisplayMaxStar": 7
   },
   "17": {
     "Level": 17,
@@ -141,7 +181,10 @@
     "WorldClass": 22,
     "MaxStar": 7,
     "TokenRate": 180,
-    "DisplayAddRate": 3
+    "DifficultyList": [
+      1
+    ],
+    "DisplayFreeRate": 3
   },
   "18": {
     "Level": 18,
@@ -149,14 +192,21 @@
     "WorldClass": 22,
     "MaxStar": 7,
     "TokenRate": 220,
-    "DisplayMaxStar": 40
+    "DifficultyList": [
+      1
+    ],
+    "DisplayTokenRate": 40
   },
   "19": {
     "Level": 19,
     "Exp": 500,
     "WorldClass": 22,
     "MaxStar": 7,
-    "TokenRate": 220
+    "TokenRate": 220,
+    "DifficultyList": [
+      1,
+      2
+    ]
   },
   "20": {
     "Level": 20,
@@ -164,6 +214,10 @@
     "WorldClass": 22,
     "MaxStar": 7,
     "TokenRate": 260,
-    "DisplayMaxStar": 40
+    "DifficultyList": [
+      1,
+      2
+    ],
+    "DisplayTokenRate": 40
   }
 }
