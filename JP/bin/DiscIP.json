@@ -1435,5 +1435,32 @@
     "CharId": [
       162
     ]
+  },
+  "214068": {
+    "Id": 214068,
+    "VoFile": "outfit_4068",
+    "VoLoop1": 139.65499877929688,
+    "VoName1": "DiscIP.214068.1",
+    "VoLoop2": 16.551000595092773,
+    "VoName2": "DiscIP.214068.2",
+    "AvgId": "CG_disc4068",
+    "StoryName": "DiscIP.214068.3",
+    "StoryDesc": "DiscIP.214068.4",
+    "CharId": [
+      161
+    ]
+  },
+  "214069": {
+    "Id": 214069,
+    "VoFile": "outfit_4069",
+    "VoLoop1": 90.6969985961914,
+    "VoName1": "DiscIP.214069.1",
+    "VoLoop2": 11.161999702453613,
+    "VoName2": "DiscIP.214069.2",
+    "StoryName": "DiscIP.214069.3",
+    "StoryDesc": "DiscIP.214069.4",
+    "CharId": [
+      161
+    ]
   }
 }
